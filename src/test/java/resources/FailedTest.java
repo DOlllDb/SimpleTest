@@ -10,6 +10,6 @@ public class FailedTest {
     @Test
     public void failedTest() {
         System.out.println("Failed test");
-        Assert.assertTrue("Failed with:", false);
+//        Assert.assertTrue("Failed with:", false);
     }
 }
